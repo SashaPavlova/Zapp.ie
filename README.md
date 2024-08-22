@@ -12,6 +12,7 @@ extensions:
   createdDate: "2021-10-19"
 ---
 # Getting Started with Bot SSO
+![zappie banner](https://github.com/user-attachments/assets/9c6aa41c-24ef-4b9d-9f68-1b13f8004d0c)
 
 A bot, chatbot, or conversational bot is an app that responds to simple commands sent in chat and replies in meaningful ways. Examples of bots in everyday use include: bots that notify about build failures, bots that provide information about the weather or bus schedules, or provide travel information. A bot interaction can be a quick question and answer, or it can be a complex conversation. Being a cloud application, a bot can provide valuable and secure access to cloud services and corporate resources.
 
